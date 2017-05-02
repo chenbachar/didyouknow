@@ -1,11 +1,13 @@
 {
   "list": [
     {
-      "text": "Test1",
+      "text": "Kangaroos cannot walk backwards!",
+	  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Eastern_grey_kangaroo_dec07_02.jpg",
       "date": "1493586000000"
     },
     {
       "text": "Test2",
+	  "image": "",
       "date": "1493499600000"
     }
   ]
