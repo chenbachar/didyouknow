@@ -6,8 +6,13 @@
       "date": "1493586000000"
     },
     {
-      "text": "Test2",
-	  "image": "",
+      "text": "Approximately 11% of people are left handed",
+	  "image": "http://www.informationng.com/wp-content/uploads/2016/01/Left-handed-people.jpg",
+      "date": "1493499600000"
+    },
+	{
+      "text": "August has the highest percentage of births",
+	  "image": "http://textimages.us/august/august02/august-029.jpg",
       "date": "1493499600000"
     }
   ]
